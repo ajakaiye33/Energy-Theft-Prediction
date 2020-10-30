@@ -36,4 +36,4 @@ Variable| Data Type|Meaning
 **Sub-mettering_3**|Integer|Apartment three sub-meter units of electricity usage. Its often expressed in KWh
 
 
- *For details check the master branch for the related Notebook*
+> *For details check the master branch for the related Notebook*
